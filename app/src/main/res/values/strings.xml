@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+
+    <string name="edt1">Username</string>
+    <string name="edt2">E-mail</string>
+    <string name="edt3">Password</string>
+    <string name="edt4">Enter your Name</string>
+    <string name="edt5">About</string>
+
+    <string name="btn1">Sign Up</string>
+    <string name="btn2">Google </string>
+    <string name="btn3">Facebook</string>
+    <string name="btn4">Sign In</string>
+    <string name="btn5">Save</string>
+
+    <string name="text1">Already have an account</string>
+    <string name="text2">Sign up with Phone</string>
+    <string name="text3">Click for sign Up</string>
+    <string name="text4">Vineet Kundu</string>
+    <string name="text5">Last Message</string>
+    <string name="text6">12:00 pm</string>
+    <string name="text7">Hii, this is Vineet. </string>
+    <string name="text8">Username : </string>
+    <string name="text9">About : </string>
+
+    <string name="text10">Privacy Policy</string>
+    <string name="text11">About US</string>
+    <string name="text12">Invite a friend</string>
+    <string name="text13">Notification</string>
+    <string name="text14">Help</string>
+
+    <string name="menu1">LogOut</string>
+    <string name="menu2">Settings</string>
+    <string name="menu3">Group Chat</string>
+
+    <string name="hint1">Enter your Message</string>
+
+    <string name="default_web_client_id" translatable="false">495130868736-39ilvr6lpho35qens7vk5d8k8p9opqp4.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
