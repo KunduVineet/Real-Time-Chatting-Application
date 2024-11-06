@@ -1,4 +1,4 @@
-# real Time Chatting Application (Android)
+# Real Time Chatting Application (Android)
 
 This is a **Real Time Chatting ** Android application that mimics key features of the WhatsApp mobile app. Users can send and receive messages, create chat groups, share media, and more.
 
