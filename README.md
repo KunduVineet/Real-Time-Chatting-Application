@@ -1,6 +1,6 @@
-# WhatsApp Clone (Android)
+# real Time Chatting Application (Android)
 
-This is a **WhatsApp Clone** Android application that mimics key features of the WhatsApp mobile app. Users can send and receive messages, create chat groups, share media, and more.
+This is a **Real Time Chatting ** Android application that mimics key features of the WhatsApp mobile app. Users can send and receive messages, create chat groups, share media, and more.
 
 ## Features
 
